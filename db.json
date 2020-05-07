@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "blah blah",
       "attention": false,
-      "date": "05-06-2020",
-      "tech": "Kristen Stewart"
+      "tech": "Mustafa Hayati",
+      "date": "2020-05-07T09:54:20.078Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "blue blue",
       "attention": true,
-      "date": "05-06-2020",
-      "tech": "Taylor Swift"
+      "tech": "Taylor Swift",
+      "date": "2020-05-07T09:54:28.574Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "bleep bleep",
       "attention": false,
-      "date": "05-06-2020",
-      "tech": "Mustafa Hayati"
+      "tech": "Kristen Stewart",
+      "date": "2020-05-07T09:54:43.251Z",
+      "id": 3
     }
   ],
   "techs": [
