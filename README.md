@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-I created this app using [Brad Traversy's](https://github.com/bradtraversy/) REACT FRONT TO BACK 2019 course . This is a IT LOGGER app created with **React**, **react hooks**, **redux** and **json-server**
+I created this app using [Brad Traversy's](https://github.com/bradtraversy/) REACT FRONT TO BACK 2019 course . This is an IT LOGGER app created with **React**, **react hooks**, **redux** and **json-server**
 
 1. Clone this repo
 2. Run `npm install` or `yarn`
