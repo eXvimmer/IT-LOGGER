@@ -1,47 +1,4 @@
 {
-  "logs": [
-    {
-      "message": "blah blah",
-      "attention": false,
-      "tech": "Mustafa Hayati",
-      "date": "2020-05-07T09:54:20.078Z",
-      "id": 1
-    },
-    {
-      "message": "bleep bleep",
-      "attention": false,
-      "tech": "Kristen Stewart",
-      "date": "2020-05-07T09:54:43.251Z",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "message": "blue blue red",
-      "attention": true,
-      "tech": "Taylor Swift",
-      "date": "2020-05-07T11:43:38.303Z"
-    }
-  ],
-  "techs": [
-    {
-      "id": 1,
-      "firstName": "Mustafa",
-      "lastName": "Hayati"
-    },
-    {
-      "id": 2,
-      "firstName": "Kristen",
-      "lastName": "Stewart"
-    },
-    {
-      "id": 3,
-      "firstName": "Taylor",
-      "lastName": "Swift"
-    },
-    {
-      "firstName": "Margot",
-      "lastName": "Robbie",
-      "id": 4
-    }
-  ]
+  "logs": [],
+  "techs": []
 }
